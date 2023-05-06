@@ -1,0 +1,17 @@
+{
+  "name": "simplydark",
+  "version": "1.0.0",
+  "description": "Changes the status icons to wrap around the avatar.",
+  "repository": "https://github.com/DiscordStyles/SimplyDark.git",
+  "author": "Gibbu <Gibbu_@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "dev": "bd-scss dev",
+    "build": "bd-scss build"
+  },
+  "dependencies": {
+    "bd-scss": "^2.0.12"
+  }
+}
